@@ -1,0 +1,1 @@
+# nzcovid19json

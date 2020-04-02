@@ -409,10 +409,22 @@
       "recovered": 56
     },
     {
-      "date": "2020-3-30",
-      "confirmed": 589,
+      "date": "2020-3-31",
+      "confirmed": 647,
       "deaths": 1,
-      "recovered": 63
+      "recovered": 74
+    },
+    {
+      "date": "2020-4-1",
+      "confirmed": 708,
+      "deaths": 1,
+      "recovered": 82
+    },
+    {
+      "date": "2020-4-2",
+      "confirmed": 797,
+      "deaths": 1,
+      "recovered": 92
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "nzl": {
+    "dataName": "New Zealand",
+    "displayName": "New Zealand",
+    "population": 4951500,
+    "colour": "rgba(255, 204, 0, 1)"
+  },
+  "usa": {
+    "dataName": "US",
+    "displayName": "United States",
+    "population": 329448214,
+    "colour": "rgba(191, 10, 48, 1)"
+   },
+   "ita": {
+     "dataName": "Italy",
+     "displayName": "Italy",
+     "population": 60484061,
+     "colour": "rgba(0, 146, 70, 1)"
+   },
+   "esp": {
+     "dataName": "Spain",
+     "displayName": "Spain",
+     "population": 46750239,
+     "colour": "rgba(99, 3, 86, 1)"
+   },
+   "gbr": {
+     "dataName": "United Kingdom",
+     "displayName": "United Kingdom",
+     "population": 67796130,
+     "colour": "rgba(1, 33, 105, 1)"
+  },
+  "che": {
+    "dataName": "Switzerland",
+    "displayName": "Switzerland",
+    "population": 0,
+    "colour": "rgba(1, 33, 105, 1)"
+  }
+}

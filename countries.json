@@ -59,5 +59,20 @@
     "pomberName": "Canada",
     "displayName": "Canada",
     "population": 37668439
+  },
+  "fra": {
+    "pomberName": "France",
+    "displayName": "France",
+    "population": 65241587
+  },
+  "deu": {
+    "pomberName": "Germany",
+    "displayName": "Germany",
+    "population": 83724660
+  },
+  "swe": {
+    "pomberName": "Sweden",
+    "displayName": "Sweden",
+    "population": 10085281
   }
 }

@@ -1,38 +1,63 @@
 {
   "nzl": {
-    "dataName": "New Zealand",
+    "pomberName": "New Zealand",
     "displayName": "New Zealand",
     "population": 4951500,
     "colour": "rgba(255, 204, 0, 1)"
   },
   "usa": {
-    "dataName": "US",
+    "pomberName": "US",
     "displayName": "United States",
     "population": 329448214,
     "colour": "rgba(191, 10, 48, 1)"
    },
    "ita": {
-     "dataName": "Italy",
+     "pomberName": "Italy",
      "displayName": "Italy",
      "population": 60484061,
      "colour": "rgba(0, 146, 70, 1)"
    },
    "esp": {
-     "dataName": "Spain",
+     "pomberName": "Spain",
      "displayName": "Spain",
      "population": 46750239,
      "colour": "rgba(99, 3, 86, 1)"
    },
    "gbr": {
-     "dataName": "United Kingdom",
+     "pomberName": "United Kingdom",
      "displayName": "United Kingdom",
      "population": 67796130,
      "colour": "rgba(1, 33, 105, 1)"
   },
   "che": {
-    "dataName": "Switzerland",
+    "pomberName": "Switzerland",
     "displayName": "Switzerland",
-    "population": 0,
+    "population": 8640546,
     "colour": "rgba(1, 33, 105, 1)"
+  },
+  "sgp": {
+    "pomberName": "Singapore",
+    "displayName": "Singapore",
+    "population": 5840103
+  },
+  "kor": {
+    "pomberName": "Korea, South",
+    "displayName": "Sourth Korea",
+    "population": 51259447
+  },
+  "chn": {
+    "pomberName": "China",
+    "displayName": "China",
+    "population": 1438092735
+  },
+  "aus": {
+    "pomberName": "Australia",
+    "displayName": "Australia",
+    "population": 25433758
+  },
+  "can": {
+    "pomberName": "Canada",
+    "displayName": "Canada",
+    "population": 37668439
   }
 }

@@ -448,19 +448,19 @@
       "date": "2020-4-5",
       "confirmed": 1039,
       "deaths": 1,
-      "recovered": 0
+      "recovered": 156
     },
     {
       "date": "2020-4-6",
       "confirmed": 1106,
       "deaths": 1,
-      "recovered": 0
+      "recovered": 176
     },
     {
       "date": "2020-4-7",
       "confirmed": 1160,
       "deaths": 1,
-      "recovered": 0
+      "recovered": 241
     },
     {
       "date": "2020-4-8",
@@ -473,6 +473,12 @@
       "confirmed": 1239,
       "deaths": 1,
       "recovered": 317
+    },
+    {
+      "date": "2020-4-10",
+      "confirmed": 1283,
+      "deaths": 2,
+      "recovered": 373
     }
   ]
 }

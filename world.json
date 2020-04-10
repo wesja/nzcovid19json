@@ -8236,6 +8236,1373 @@
             }
         ]
     },
+    "irn": {
+        "pomberName": "Iran",
+        "displayName": "Iran",
+        "population": 83752738,
+        "data": [
+            {
+                "date": "2020-3-1",
+                "date_pretty": "1 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 978,
+                        "change": 978
+                    },
+                    "Per Million People": {
+                        "cumulative": 11.677230182015064,
+                        "change": 11.677230182015064
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 175,
+                        "change": 175
+                    },
+                    "Per Million People": {
+                        "cumulative": 2.089483928274679,
+                        "change": 2.089483928274679
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 54,
+                        "change": 54
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.6447550407247582,
+                        "change": 0.6447550407247582
+                    }
+                }
+            },
+            {
+                "date": "2020-3-2",
+                "date_pretty": "2 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 1501,
+                        "change": 523
+                    },
+                    "Per Million People": {
+                        "cumulative": 17.921802150515962,
+                        "change": 6.244571968500899
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 291,
+                        "change": 116
+                    },
+                    "Per Million People": {
+                        "cumulative": 3.474513275016752,
+                        "change": 1.3850293467420731
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 66,
+                        "change": 12
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.7880339386635934,
+                        "change": 0.14327889793883514
+                    }
+                }
+            },
+            {
+                "date": "2020-3-3",
+                "date_pretty": "3 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 2336,
+                        "change": 835
+                    },
+                    "Per Million People": {
+                        "cumulative": 27.891625465426575,
+                        "change": 9.969823314910613
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 291,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 3.474513275016752,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 77,
+                        "change": 11
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.9193729284408588,
+                        "change": 0.13133898977726555
+                    }
+                }
+            },
+            {
+                "date": "2020-3-4",
+                "date_pretty": "4 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 2922,
+                        "change": 586
+                    },
+                    "Per Million People": {
+                        "cumulative": 34.888411648106356,
+                        "change": 6.996786182679783
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 552,
+                        "change": 261
+                    },
+                    "Per Million People": {
+                        "cumulative": 6.590829305186417,
+                        "change": 3.1163160301696644
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 92,
+                        "change": 15
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.0984715508644027,
+                        "change": 0.17909862242354394
+                    }
+                }
+            },
+            {
+                "date": "2020-3-5",
+                "date_pretty": "5 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 3513,
+                        "change": 591
+                    },
+                    "Per Million People": {
+                        "cumulative": 41.94489737159399,
+                        "change": 7.056485723487631
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 739,
+                        "change": 187
+                    },
+                    "Per Million People": {
+                        "cumulative": 8.82359213139993,
+                        "change": 2.232762826213514
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 107,
+                        "change": 15
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.2775701732879468,
+                        "change": 0.17909862242354394
+                    }
+                }
+            },
+            {
+                "date": "2020-3-6",
+                "date_pretty": "6 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 4747,
+                        "change": 1234
+                    },
+                    "Per Million People": {
+                        "cumulative": 56.67874404297087,
+                        "change": 14.733846671376881
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 913,
+                        "change": 174
+                    },
+                    "Per Million People": {
+                        "cumulative": 10.90113615151304,
+                        "change": 2.0775440201131095
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 124,
+                        "change": 17
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.4805486120346298,
+                        "change": 0.20297843874668314
+                    }
+                }
+            },
+            {
+                "date": "2020-3-7",
+                "date_pretty": "7 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 5823,
+                        "change": 1076
+                    },
+                    "Per Million People": {
+                        "cumulative": 69.52608522481975,
+                        "change": 12.847341181848886
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 1669,
+                        "change": 756
+                    },
+                    "Per Million People": {
+                        "cumulative": 19.927706721659657,
+                        "change": 9.026570570146614
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 145,
+                        "change": 21
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.7312866834275913,
+                        "change": 0.25073807139296156
+                    }
+                }
+            },
+            {
+                "date": "2020-3-8",
+                "date_pretty": "8 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 6566,
+                        "change": 743
+                    },
+                    "Per Million People": {
+                        "cumulative": 78.39743698886596,
+                        "change": 8.87135176404621
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2134,
+                        "change": 465
+                    },
+                    "Per Million People": {
+                        "cumulative": 25.479764016789517,
+                        "change": 5.5520572951298615
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 194,
+                        "change": 49
+                    },
+                    "Per Million People": {
+                        "cumulative": 2.3163421833445015,
+                        "change": 0.5850554999169102
+                    }
+                }
+            },
+            {
+                "date": "2020-3-9",
+                "date_pretty": "9 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 7161,
+                        "change": 595
+                    },
+                    "Per Million People": {
+                        "cumulative": 85.50168234499988,
+                        "change": 7.10424535613391
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2394,
+                        "change": 260
+                    },
+                    "Per Million People": {
+                        "cumulative": 28.58414013879761,
+                        "change": 3.104376122008095
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 237,
+                        "change": 43
+                    },
+                    "Per Million People": {
+                        "cumulative": 2.8297582342919942,
+                        "change": 0.5134160509474925
+                    }
+                }
+            },
+            {
+                "date": "2020-3-10",
+                "date_pretty": "10 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 8042,
+                        "change": 881
+                    },
+                    "Per Million People": {
+                        "cumulative": 96.02074143534269,
+                        "change": 10.519059090342813
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2731,
+                        "change": 337
+                    },
+                    "Per Million People": {
+                        "cumulative": 32.60788918924657,
+                        "change": 4.023749050448954
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 291,
+                        "change": 54
+                    },
+                    "Per Million People": {
+                        "cumulative": 3.474513275016752,
+                        "change": 0.6447550407247582
+                    }
+                }
+            },
+            {
+                "date": "2020-3-11",
+                "date_pretty": "11 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 9000,
+                        "change": 958
+                    },
+                    "Per Million People": {
+                        "cumulative": 107.45917345412636,
+                        "change": 11.438432018783672
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2959,
+                        "change": 228
+                    },
+                    "Per Million People": {
+                        "cumulative": 35.33018825008443,
+                        "change": 2.7222990608378677
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 354,
+                        "change": 63
+                    },
+                    "Per Million People": {
+                        "cumulative": 4.226727489195636,
+                        "change": 0.7522142141788846
+                    }
+                }
+            },
+            {
+                "date": "2020-3-12",
+                "date_pretty": "12 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 10075,
+                        "change": 1075
+                    },
+                    "Per Million People": {
+                        "cumulative": 120.29457472781368,
+                        "change": 12.835401273687314
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2959,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 35.33018825008443,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 429,
+                        "change": 75
+                    },
+                    "Per Million People": {
+                        "cumulative": 5.122220601313357,
+                        "change": 0.8954931121177196
+                    }
+                }
+            },
+            {
+                "date": "2020-3-13",
+                "date_pretty": "13 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 11364,
+                        "change": 1289
+                    },
+                    "Per Million People": {
+                        "cumulative": 135.68511634807686,
+                        "change": 15.39054162026321
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2959,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 35.33018825008443,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 514,
+                        "change": 85
+                    },
+                    "Per Million People": {
+                        "cumulative": 6.1371127950467725,
+                        "change": 1.0148921937334154
+                    }
+                }
+            },
+            {
+                "date": "2020-3-14",
+                "date_pretty": "14 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 12729,
+                        "change": 1365
+                    },
+                    "Per Million People": {
+                        "cumulative": 151.98309098861938,
+                        "change": 16.2979746405425
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2959,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 35.33018825008443,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 611,
+                        "change": 97
+                    },
+                    "Per Million People": {
+                        "cumulative": 7.295283886719023,
+                        "change": 1.1581710916722507
+                    }
+                }
+            },
+            {
+                "date": "2020-3-15",
+                "date_pretty": "15 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 13938,
+                        "change": 1209
+                    },
+                    "Per Million People": {
+                        "cumulative": 166.418439955957,
+                        "change": 14.435348967337642
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 4590,
+                        "change": 1631
+                    },
+                    "Per Million People": {
+                        "cumulative": 54.804178461604444,
+                        "change": 19.47399021152001
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 724,
+                        "change": 113
+                    },
+                    "Per Million People": {
+                        "cumulative": 8.644493508976387,
+                        "change": 1.3492096222573642
+                    }
+                }
+            },
+            {
+                "date": "2020-3-16",
+                "date_pretty": "16 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 14991,
+                        "change": 1053
+                    },
+                    "Per Million People": {
+                        "cumulative": 178.9911632500898,
+                        "change": 12.572723294132784
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 4590,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 54.804178461604444,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 853,
+                        "change": 129
+                    },
+                    "Per Million People": {
+                        "cumulative": 10.184741661818864,
+                        "change": 1.5402481528424778
+                    }
+                }
+            },
+            {
+                "date": "2020-3-17",
+                "date_pretty": "17 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 16169,
+                        "change": 1178
+                    },
+                    "Per Million People": {
+                        "cumulative": 193.0563750644188,
+                        "change": 14.065211814328984
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 5389,
+                        "change": 799
+                    },
+                    "Per Million People": {
+                        "cumulative": 64.34416508269855,
+                        "change": 9.539986621094107
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 988,
+                        "change": 135
+                    },
+                    "Per Million People": {
+                        "cumulative": 11.796629263630761,
+                        "change": 1.6118876018118955
+                    }
+                }
+            },
+            {
+                "date": "2020-3-18",
+                "date_pretty": "18 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 17361,
+                        "change": 1192
+                    },
+                    "Per Million People": {
+                        "cumulative": 207.28874559300974,
+                        "change": 14.232370528590957
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 5389,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 64.34416508269855,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1135,
+                        "change": 147
+                    },
+                    "Per Million People": {
+                        "cumulative": 13.55179576338149,
+                        "change": 1.7551664997507304
+                    }
+                }
+            },
+            {
+                "date": "2020-3-19",
+                "date_pretty": "19 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 18407,
+                        "change": 1046
+                    },
+                    "Per Million People": {
+                        "cumulative": 219.77788953001155,
+                        "change": 12.489143937001797
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 5710,
+                        "change": 321
+                    },
+                    "Per Million People": {
+                        "cumulative": 68.17687560256239,
+                        "change": 3.83271051986384
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1284,
+                        "change": 149
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.33084207945536,
+                        "change": 1.7790463160738696
+                    }
+                }
+            },
+            {
+                "date": "2020-3-20",
+                "date_pretty": "20 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 19644,
+                        "change": 1237
+                    },
+                    "Per Million People": {
+                        "cumulative": 234.54755592587316,
+                        "change": 14.76966639586159
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 6745,
+                        "change": 1035
+                    },
+                    "Per Million People": {
+                        "cumulative": 80.53468054978691,
+                        "change": 12.35780494722453
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1433,
+                        "change": 149
+                    },
+                    "Per Million People": {
+                        "cumulative": 17.109888395529232,
+                        "change": 1.7790463160738696
+                    }
+                }
+            },
+            {
+                "date": "2020-3-21",
+                "date_pretty": "21 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 20610,
+                        "change": 966
+                    },
+                    "Per Million People": {
+                        "cumulative": 246.08150720994936,
+                        "change": 11.53395128407623
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 7635,
+                        "change": 890
+                    },
+                    "Per Million People": {
+                        "cumulative": 91.16119881358385,
+                        "change": 10.62651826379694
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1556,
+                        "change": 123
+                    },
+                    "Per Million People": {
+                        "cumulative": 18.57849709940229,
+                        "change": 1.4686087038730602
+                    }
+                }
+            },
+            {
+                "date": "2020-3-22",
+                "date_pretty": "22 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 21638,
+                        "change": 1028
+                    },
+                    "Per Million People": {
+                        "cumulative": 258.3557328000429,
+                        "change": 12.274225590093545
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 7931,
+                        "change": 296
+                    },
+                    "Per Million People": {
+                        "cumulative": 94.69541162940845,
+                        "change": 3.5342128158246
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1685,
+                        "change": 129
+                    },
+                    "Per Million People": {
+                        "cumulative": 20.118745252244768,
+                        "change": 1.5402481528424778
+                    }
+                }
+            },
+            {
+                "date": "2020-3-23",
+                "date_pretty": "23 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 23049,
+                        "change": 1411
+                    },
+                    "Per Million People": {
+                        "cumulative": 275.2029432160176,
+                        "change": 16.8472104159747
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 7931,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 94.69541162940845,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1812,
+                        "change": 127
+                    },
+                    "Per Million People": {
+                        "cumulative": 21.635113588764106,
+                        "change": 1.5163683365193388
+                    }
+                }
+            },
+            {
+                "date": "2020-3-24",
+                "date_pretty": "24 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 24811,
+                        "change": 1762
+                    },
+                    "Per Million People": {
+                        "cumulative": 296.24106139670323,
+                        "change": 21.038118180685625
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 8913,
+                        "change": 982
+                    },
+                    "Per Million People": {
+                        "cumulative": 106.4204014440698,
+                        "change": 11.724989814661342
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1934,
+                        "change": 122
+                    },
+                    "Per Million People": {
+                        "cumulative": 23.0917823844756,
+                        "change": 1.4566687957114908
+                    }
+                }
+            },
+            {
+                "date": "2020-3-25",
+                "date_pretty": "25 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 27017,
+                        "change": 2206
+                    },
+                    "Per Million People": {
+                        "cumulative": 322.58049880112577,
+                        "change": 26.339437404422526
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 9625,
+                        "change": 712
+                    },
+                    "Per Million People": {
+                        "cumulative": 114.92161605510735,
+                        "change": 8.501214611037552
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2077,
+                        "change": 143
+                    },
+                    "Per Million People": {
+                        "cumulative": 24.79918925158005,
+                        "change": 1.707406867104452
+                    }
+                }
+            },
+            {
+                "date": "2020-3-26",
+                "date_pretty": "26 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 29406,
+                        "change": 2389
+                    },
+                    "Per Million People": {
+                        "cumulative": 351.10493939911555,
+                        "change": 28.524440597989763
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 10457,
+                        "change": 832
+                    },
+                    "Per Million People": {
+                        "cumulative": 124.85561964553325,
+                        "change": 9.934003590425903
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2234,
+                        "change": 157
+                    },
+                    "Per Million People": {
+                        "cumulative": 26.67375483294648,
+                        "change": 1.8745655813664264
+                    }
+                }
+            },
+            {
+                "date": "2020-3-27",
+                "date_pretty": "27 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 32332,
+                        "change": 2926
+                    },
+                    "Per Million People": {
+                        "cumulative": 386.04111067986815,
+                        "change": 34.93617128075263
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 11133,
+                        "change": 676
+                    },
+                    "Per Million People": {
+                        "cumulative": 132.9269975627543,
+                        "change": 8.071377917221046
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2378,
+                        "change": 144
+                    },
+                    "Per Million People": {
+                        "cumulative": 28.3931016082125,
+                        "change": 1.7193467752660216
+                    }
+                }
+            },
+            {
+                "date": "2020-3-28",
+                "date_pretty": "28 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 35408,
+                        "change": 3076
+                    },
+                    "Per Million People": {
+                        "cumulative": 422.76826818485625,
+                        "change": 36.72715750498808
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 11679,
+                        "change": 546
+                    },
+                    "Per Million People": {
+                        "cumulative": 139.4461874189713,
+                        "change": 6.519189856216999
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2517,
+                        "change": 139
+                    },
+                    "Per Million People": {
+                        "cumulative": 30.052748842670674,
+                        "change": 1.6596472344581739
+                    }
+                }
+            },
+            {
+                "date": "2020-3-29",
+                "date_pretty": "29 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 38309,
+                        "change": 2901
+                    },
+                    "Per Million People": {
+                        "cumulative": 457.40594176156964,
+                        "change": 34.6376735767134
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 12391,
+                        "change": 712
+                    },
+                    "Per Million People": {
+                        "cumulative": 147.94740203000887,
+                        "change": 8.501214611037552
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2640,
+                        "change": 123
+                    },
+                    "Per Million People": {
+                        "cumulative": 31.521357546543737,
+                        "change": 1.4686087038730602
+                    }
+                }
+            },
+            {
+                "date": "2020-3-30",
+                "date_pretty": "30 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 41495,
+                        "change": 3186
+                    },
+                    "Per Million People": {
+                        "cumulative": 495.44648916433033,
+                        "change": 38.04054740276073
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 13911,
+                        "change": 1520
+                    },
+                    "Per Million People": {
+                        "cumulative": 166.09606243559463,
+                        "change": 18.148660405585783
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2757,
+                        "change": 117
+                    },
+                    "Per Million People": {
+                        "cumulative": 32.91832680144737,
+                        "change": 1.3969692549036428
+                    }
+                }
+            },
+            {
+                "date": "2020-3-31",
+                "date_pretty": "31 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 44605,
+                        "change": 3110
+                    },
+                    "Per Million People": {
+                        "cumulative": 532.5796035468119,
+                        "change": 37.133114382481445
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 14656,
+                        "change": 745
+                    },
+                    "Per Million People": {
+                        "cumulative": 174.991294015964,
+                        "change": 8.89523158036935
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2898,
+                        "change": 141
+                    },
+                    "Per Million People": {
+                        "cumulative": 34.60185385222869,
+                        "change": 1.683527050781313
+                    }
+                }
+            },
+            {
+                "date": "2020-4-1",
+                "date_pretty": "1 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 47593,
+                        "change": 2988
+                    },
+                    "Per Million People": {
+                        "cumulative": 568.2560491335818,
+                        "change": 35.67644558676995
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 15473,
+                        "change": 817
+                    },
+                    "Per Million People": {
+                        "cumulative": 184.74619898396637,
+                        "change": 9.754904968002359
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3036,
+                        "change": 138
+                    },
+                    "Per Million People": {
+                        "cumulative": 36.24956117852529,
+                        "change": 1.6477073262966042
+                    }
+                }
+            },
+            {
+                "date": "2020-4-2",
+                "date_pretty": "2 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 50468,
+                        "change": 2875
+                    },
+                    "Per Million People": {
+                        "cumulative": 602.5832850980944,
+                        "change": 34.32723596451259
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 16711,
+                        "change": 1238
+                    },
+                    "Per Million People": {
+                        "cumulative": 199.5278052879895,
+                        "change": 14.78160630402316
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3160,
+                        "change": 124
+                    },
+                    "Per Million People": {
+                        "cumulative": 37.73010979055992,
+                        "change": 1.4805486120346298
+                    }
+                }
+            },
+            {
+                "date": "2020-4-3",
+                "date_pretty": "3 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 53183,
+                        "change": 2715
+                    },
+                    "Per Million People": {
+                        "cumulative": 635.0001357567559,
+                        "change": 32.41685065866145
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 17935,
+                        "change": 1224
+                    },
+                    "Per Million People": {
+                        "cumulative": 214.1422528777507,
+                        "change": 14.614447589761184
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3294,
+                        "change": 134
+                    },
+                    "Per Million People": {
+                        "cumulative": 39.33005748421025,
+                        "change": 1.5999476936503259
+                    }
+                }
+            },
+            {
+                "date": "2020-4-4",
+                "date_pretty": "4 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 55743,
+                        "change": 2560
+                    },
+                    "Per Million People": {
+                        "cumulative": 665.5663006503739,
+                        "change": 30.56616489361817
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 19736,
+                        "change": 1801
+                    },
+                    "Per Million People": {
+                        "cumulative": 235.64602747673754,
+                        "change": 21.50377459898684
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3452,
+                        "change": 158
+                    },
+                    "Per Million People": {
+                        "cumulative": 41.21656297373824,
+                        "change": 1.886505489527996
+                    }
+                }
+            },
+            {
+                "date": "2020-4-5",
+                "date_pretty": "5 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 58226,
+                        "change": 2483
+                    },
+                    "Per Million People": {
+                        "cumulative": 695.2130926155513,
+                        "change": 29.646791965177307
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 19736,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 235.64602747673754,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3603,
+                        "change": 151
+                    },
+                    "Per Million People": {
+                        "cumulative": 43.019489106135254,
+                        "change": 1.802926132397009
+                    }
+                }
+            },
+            {
+                "date": "2020-4-6",
+                "date_pretty": "6 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 60500,
+                        "change": 2274
+                    },
+                    "Per Million People": {
+                        "cumulative": 722.3644437749606,
+                        "change": 27.151351159409263
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 24236,
+                        "change": 4500
+                    },
+                    "Per Million People": {
+                        "cumulative": 289.3756142038007,
+                        "change": 53.72958672706318
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3739,
+                        "change": 136
+                    },
+                    "Per Million People": {
+                        "cumulative": 44.64331661610872,
+                        "change": 1.6238275099734651
+                    }
+                }
+            },
+            {
+                "date": "2020-4-7",
+                "date_pretty": "7 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 62589,
+                        "change": 2089
+                    },
+                    "Per Million People": {
+                        "cumulative": 747.3069119244794,
+                        "change": 24.942468149518884
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 27039,
+                        "change": 2803
+                    },
+                    "Per Million People": {
+                        "cumulative": 322.84317678068027,
+                        "change": 33.46756257687957
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3872,
+                        "change": 133
+                    },
+                    "Per Million People": {
+                        "cumulative": 46.231324401597476,
+                        "change": 1.5880077854887562
+                    }
+                }
+            },
+            {
+                "date": "2020-4-8",
+                "date_pretty": "8 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 64586,
+                        "change": 1997
+                    },
+                    "Per Million People": {
+                        "cumulative": 771.1509085231338,
+                        "change": 23.84399659865448
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 29812,
+                        "change": 2773
+                    },
+                    "Per Million People": {
+                        "cumulative": 355.95254211271276,
+                        "change": 33.10936533203249
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3993,
+                        "change": 121
+                    },
+                    "Per Million People": {
+                        "cumulative": 47.6760532891474,
+                        "change": 1.4447288875499211
+                    }
+                }
+            },
+            {
+                "date": "2020-4-9",
+                "date_pretty": "9 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 66220,
+                        "change": 1634
+                    },
+                    "Per Million People": {
+                        "cumulative": 790.6607184591386,
+                        "change": 19.509809936004718
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 32309,
+                        "change": 2497
+                    },
+                    "Per Million People": {
+                        "cumulative": 385.766492792152,
+                        "change": 29.81395067943928
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 4110,
+                        "change": 117
+                    },
+                    "Per Million People": {
+                        "cumulative": 49.07302254405104,
+                        "change": 1.3969692549036428
+                    }
+                }
+            }
+        ]
+    },
     "ita": {
         "pomberName": "Italy",
         "displayName": "Italy",
@@ -10966,6 +12333,1373 @@
                     "Per Million People": {
                         "cumulative": 3.9797542099898187,
                         "change": 0.07803439627431018
+                    }
+                }
+            }
+        ]
+    },
+    "nld": {
+        "pomberName": "Netherlands",
+        "displayName": "Netherlands",
+        "population": 17126505,
+        "data": [
+            {
+                "date": "2020-3-1",
+                "date_pretty": "1 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 10,
+                        "change": 10
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.5838902916853146,
+                        "change": 0.5838902916853146
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-2",
+                "date_pretty": "2 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 18,
+                        "change": 8
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.0510025250335664,
+                        "change": 0.46711223334825175
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-3",
+                "date_pretty": "3 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 24,
+                        "change": 6
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.4013367000447552,
+                        "change": 0.3503341750111888
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-4",
+                "date_pretty": "4 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 38,
+                        "change": 14
+                    },
+                    "Per Million People": {
+                        "cumulative": 2.2187831084041956,
+                        "change": 0.8174464083594406
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-5",
+                "date_pretty": "5 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 82,
+                        "change": 44
+                    },
+                    "Per Million People": {
+                        "cumulative": 4.78790039181958,
+                        "change": 2.5691172834153844
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-6",
+                "date_pretty": "6 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 128,
+                        "change": 46
+                    },
+                    "Per Million People": {
+                        "cumulative": 7.473795733572028,
+                        "change": 2.6858953417524476
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1,
+                        "change": 1
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.05838902916853147,
+                        "change": 0.05838902916853147
+                    }
+                }
+            },
+            {
+                "date": "2020-3-7",
+                "date_pretty": "7 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 188,
+                        "change": 60
+                    },
+                    "Per Million People": {
+                        "cumulative": 10.977137483683915,
+                        "change": 3.503341750111888
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.05838902916853147,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-8",
+                "date_pretty": "8 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 265,
+                        "change": 77
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.47309272966084,
+                        "change": 4.495955245976923
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3,
+                        "change": 2
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.1751670875055944,
+                        "change": 0.11677805833706294
+                    }
+                }
+            },
+            {
+                "date": "2020-3-9",
+                "date_pretty": "9 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 321,
+                        "change": 56
+                    },
+                    "Per Million People": {
+                        "cumulative": 18.742878363098598,
+                        "change": 3.2697856334377624
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 3,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.1751670875055944,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-10",
+                "date_pretty": "10 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 382,
+                        "change": 61
+                    },
+                    "Per Million People": {
+                        "cumulative": 22.304609142379018,
+                        "change": 3.561730779280419
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 4,
+                        "change": 1
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.23355611667412587,
+                        "change": 0.05838902916853147
+                    }
+                }
+            },
+            {
+                "date": "2020-3-11",
+                "date_pretty": "11 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 503,
+                        "change": 121
+                    },
+                    "Per Million People": {
+                        "cumulative": 29.369681671771325,
+                        "change": 7.065072529392308
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 5,
+                        "change": 1
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.2919451458426573,
+                        "change": 0.05838902916853147
+                    }
+                }
+            },
+            {
+                "date": "2020-3-12",
+                "date_pretty": "12 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 503,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 29.369681671771325,
+                        "change": 0.0
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 5,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.2919451458426573,
+                        "change": 0.0
+                    }
+                }
+            },
+            {
+                "date": "2020-3-13",
+                "date_pretty": "13 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 806,
+                        "change": 303
+                    },
+                    "Per Million People": {
+                        "cumulative": 47.06155750983636,
+                        "change": 17.691875838065034
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 0,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.0,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 10,
+                        "change": 5
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.5838902916853146,
+                        "change": 0.2919451458426573
+                    }
+                }
+            },
+            {
+                "date": "2020-3-14",
+                "date_pretty": "14 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 962,
+                        "change": 156
+                    },
+                    "Per Million People": {
+                        "cumulative": 56.17024606012727,
+                        "change": 9.108688550290909
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 2
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.11677805833706294
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 12,
+                        "change": 2
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.7006683500223776,
+                        "change": 0.11677805833706294
+                    }
+                }
+            },
+            {
+                "date": "2020-3-15",
+                "date_pretty": "15 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 1138,
+                        "change": 176
+                    },
+                    "Per Million People": {
+                        "cumulative": 66.44671519378882,
+                        "change": 10.276469133661537
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 20,
+                        "change": 8
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.1677805833706292,
+                        "change": 0.46711223334825175
+                    }
+                }
+            },
+            {
+                "date": "2020-3-16",
+                "date_pretty": "16 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 1416,
+                        "change": 278
+                    },
+                    "Per Million People": {
+                        "cumulative": 82.67886530264056,
+                        "change": 16.232150108851748
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 24,
+                        "change": 4
+                    },
+                    "Per Million People": {
+                        "cumulative": 1.4013367000447552,
+                        "change": 0.23355611667412587
+                    }
+                }
+            },
+            {
+                "date": "2020-3-17",
+                "date_pretty": "17 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 1711,
+                        "change": 295
+                    },
+                    "Per Million People": {
+                        "cumulative": 99.90362890735734,
+                        "change": 17.224763604716784
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 43,
+                        "change": 19
+                    },
+                    "Per Million People": {
+                        "cumulative": 2.510728254246853,
+                        "change": 1.1093915542020978
+                    }
+                }
+            },
+            {
+                "date": "2020-3-18",
+                "date_pretty": "18 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 2058,
+                        "change": 347
+                    },
+                    "Per Million People": {
+                        "cumulative": 120.16462202883777,
+                        "change": 20.260993121480418
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 58,
+                        "change": 15
+                    },
+                    "Per Million People": {
+                        "cumulative": 3.386563691774825,
+                        "change": 0.875835437527972
+                    }
+                }
+            },
+            {
+                "date": "2020-3-19",
+                "date_pretty": "19 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 2467,
+                        "change": 409
+                    },
+                    "Per Million People": {
+                        "cumulative": 144.04573495876713,
+                        "change": 23.88111292992937
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 77,
+                        "change": 19
+                    },
+                    "Per Million People": {
+                        "cumulative": 4.495955245976923,
+                        "change": 1.1093915542020978
+                    }
+                }
+            },
+            {
+                "date": "2020-3-20",
+                "date_pretty": "20 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 3003,
+                        "change": 536
+                    },
+                    "Per Million People": {
+                        "cumulative": 175.3422545931,
+                        "change": 31.296519634332864
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 107,
+                        "change": 30
+                    },
+                    "Per Million People": {
+                        "cumulative": 6.247626121032867,
+                        "change": 1.751670875055944
+                    }
+                }
+            },
+            {
+                "date": "2020-3-21",
+                "date_pretty": "21 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 3640,
+                        "change": 637
+                    },
+                    "Per Million People": {
+                        "cumulative": 212.53606617345454,
+                        "change": 37.19381158035454
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 137,
+                        "change": 30
+                    },
+                    "Per Million People": {
+                        "cumulative": 7.99929699608881,
+                        "change": 1.751670875055944
+                    }
+                }
+            },
+            {
+                "date": "2020-3-22",
+                "date_pretty": "22 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 4217,
+                        "change": 577
+                    },
+                    "Per Million People": {
+                        "cumulative": 246.22653600369722,
+                        "change": 33.690469830242655
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 180,
+                        "change": 43
+                    },
+                    "Per Million People": {
+                        "cumulative": 10.510025250335664,
+                        "change": 2.510728254246853
+                    }
+                }
+            },
+            {
+                "date": "2020-3-23",
+                "date_pretty": "23 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 4764,
+                        "change": 547
+                    },
+                    "Per Million People": {
+                        "cumulative": 278.1653349588839,
+                        "change": 31.93879895518671
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 2,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.11677805833706294,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 214,
+                        "change": 34
+                    },
+                    "Per Million People": {
+                        "cumulative": 12.495252242065733,
+                        "change": 1.9852269917300698
+                    }
+                }
+            },
+            {
+                "date": "2020-3-24",
+                "date_pretty": "24 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 5580,
+                        "change": 816
+                    },
+                    "Per Million People": {
+                        "cumulative": 325.8107827604056,
+                        "change": 47.64544780152168
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 3,
+                        "change": 1
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.1751670875055944,
+                        "change": 0.05838902916853147
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 277,
+                        "change": 63
+                    },
+                    "Per Million People": {
+                        "cumulative": 16.173761079683217,
+                        "change": 3.6785088376174824
+                    }
+                }
+            },
+            {
+                "date": "2020-3-25",
+                "date_pretty": "25 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 6438,
+                        "change": 858
+                    },
+                    "Per Million People": {
+                        "cumulative": 375.9085697870056,
+                        "change": 50.097787026599995
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 4,
+                        "change": 1
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.23355611667412587,
+                        "change": 0.05838902916853147
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 357,
+                        "change": 80
+                    },
+                    "Per Million People": {
+                        "cumulative": 20.844883413165732,
+                        "change": 4.671122333482517
+                    }
+                }
+            },
+            {
+                "date": "2020-3-26",
+                "date_pretty": "26 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 7468,
+                        "change": 1030
+                    },
+                    "Per Million People": {
+                        "cumulative": 436.04926983059295,
+                        "change": 60.140700043587415
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 6,
+                        "change": 2
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.3503341750111888,
+                        "change": 0.11677805833706294
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 435,
+                        "change": 78
+                    },
+                    "Per Million People": {
+                        "cumulative": 25.399227688311186,
+                        "change": 4.554344275145454
+                    }
+                }
+            },
+            {
+                "date": "2020-3-27",
+                "date_pretty": "27 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 8647,
+                        "change": 1179
+                    },
+                    "Per Million People": {
+                        "cumulative": 504.88993522029165,
+                        "change": 68.84066538969859
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 6,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.3503341750111888,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 547,
+                        "change": 112
+                    },
+                    "Per Million People": {
+                        "cumulative": 31.93879895518671,
+                        "change": 6.539571266875525
+                    }
+                }
+            },
+            {
+                "date": "2020-3-28",
+                "date_pretty": "28 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 9819,
+                        "change": 1172
+                    },
+                    "Per Million People": {
+                        "cumulative": 573.3218774058105,
+                        "change": 68.43194218551888
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 6,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 0.3503341750111888,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 640,
+                        "change": 93
+                    },
+                    "Per Million People": {
+                        "cumulative": 37.368978667860134,
+                        "change": 5.430179712673426
+                    }
+                }
+            },
+            {
+                "date": "2020-3-29",
+                "date_pretty": "29 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 10930,
+                        "change": 1111
+                    },
+                    "Per Million People": {
+                        "cumulative": 638.192088812049,
+                        "change": 64.87021140623845
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 253,
+                        "change": 247
+                    },
+                    "Per Million People": {
+                        "cumulative": 14.77242437963846,
+                        "change": 14.422090204627272
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 772,
+                        "change": 132
+                    },
+                    "Per Million People": {
+                        "cumulative": 45.07633051810629,
+                        "change": 7.707351850246154
+                    }
+                }
+            },
+            {
+                "date": "2020-3-30",
+                "date_pretty": "30 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 11817,
+                        "change": 887
+                    },
+                    "Per Million People": {
+                        "cumulative": 689.9831576845363,
+                        "change": 51.79106887248741
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 253,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 14.77242437963846,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 865,
+                        "change": 93
+                    },
+                    "Per Million People": {
+                        "cumulative": 50.50651023077972,
+                        "change": 5.430179712673426
+                    }
+                }
+            },
+            {
+                "date": "2020-3-31",
+                "date_pretty": "31 Mar",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 12667,
+                        "change": 850
+                    },
+                    "Per Million People": {
+                        "cumulative": 739.613832477788,
+                        "change": 49.63067479325174
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 253,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 14.77242437963846,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1040,
+                        "change": 175
+                    },
+                    "Per Million People": {
+                        "cumulative": 60.72459033527273,
+                        "change": 10.218080104493007
+                    }
+                }
+            },
+            {
+                "date": "2020-4-1",
+                "date_pretty": "1 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 13696,
+                        "change": 1029
+                    },
+                    "Per Million People": {
+                        "cumulative": 799.6961434922069,
+                        "change": 60.082311014418885
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 260,
+                        "change": 7
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.181147583818182,
+                        "change": 0.4087232041797203
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1175,
+                        "change": 135
+                    },
+                    "Per Million People": {
+                        "cumulative": 68.60710927302446,
+                        "change": 7.882518937751748
+                    }
+                }
+            },
+            {
+                "date": "2020-4-2",
+                "date_pretty": "2 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 14788,
+                        "change": 1092
+                    },
+                    "Per Million People": {
+                        "cumulative": 863.4569633442433,
+                        "change": 63.760819852036356
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 260,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.181147583818182,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1341,
+                        "change": 166
+                    },
+                    "Per Million People": {
+                        "cumulative": 78.29968811500069,
+                        "change": 9.692578841976225
+                    }
+                }
+            },
+            {
+                "date": "2020-4-3",
+                "date_pretty": "3 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 15821,
+                        "change": 1033
+                    },
+                    "Per Million People": {
+                        "cumulative": 923.7728304753363,
+                        "change": 60.31586713109301
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 260,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.181147583818182,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1490,
+                        "change": 149
+                    },
+                    "Per Million People": {
+                        "cumulative": 86.99965346111188,
+                        "change": 8.699965346111188
+                    }
+                }
+            },
+            {
+                "date": "2020-4-4",
+                "date_pretty": "4 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 16727,
+                        "change": 906
+                    },
+                    "Per Million People": {
+                        "cumulative": 976.673290902026,
+                        "change": 52.90046042668951
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 262,
+                        "change": 2
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.297925642155244,
+                        "change": 0.11677805833706294
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1656,
+                        "change": 166
+                    },
+                    "Per Million People": {
+                        "cumulative": 96.6922323030881,
+                        "change": 9.692578841976225
+                    }
+                }
+            },
+            {
+                "date": "2020-4-5",
+                "date_pretty": "5 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 17953,
+                        "change": 1226
+                    },
+                    "Per Million People": {
+                        "cumulative": 1048.2582406626454,
+                        "change": 71.58494976061958
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 257,
+                        "change": -5
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.005980496312587,
+                        "change": -0.2919451458426573
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1771,
+                        "change": 115
+                    },
+                    "Per Million People": {
+                        "cumulative": 103.40697065746923,
+                        "change": 6.714738354381119
+                    }
+                }
+            },
+            {
+                "date": "2020-4-6",
+                "date_pretty": "6 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 18926,
+                        "change": 973
+                    },
+                    "Per Million People": {
+                        "cumulative": 1105.0707660436267,
+                        "change": 56.812525380981114
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 258,
+                        "change": 1
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.06436952548112,
+                        "change": 0.05838902916853147
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 1874,
+                        "change": 103
+                    },
+                    "Per Million People": {
+                        "cumulative": 109.42104066182797,
+                        "change": 6.014070004358741
+                    }
+                }
+            },
+            {
+                "date": "2020-4-7",
+                "date_pretty": "7 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 19709,
+                        "change": 783
+                    },
+                    "Per Million People": {
+                        "cumulative": 1150.7893758825867,
+                        "change": 45.71860983896014
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 272,
+                        "change": 14
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.881815933840558,
+                        "change": 0.8174464083594406
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2108,
+                        "change": 234
+                    },
+                    "Per Million People": {
+                        "cumulative": 123.08407348726432,
+                        "change": 13.663032825436364
+                    }
+                }
+            },
+            {
+                "date": "2020-4-8",
+                "date_pretty": "8 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 20682,
+                        "change": 973
+                    },
+                    "Per Million People": {
+                        "cumulative": 1207.601901263568,
+                        "change": 56.812525380981114
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 272,
+                        "change": 0
+                    },
+                    "Per Million People": {
+                        "cumulative": 15.881815933840558,
+                        "change": 0.0
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2255,
+                        "change": 147
+                    },
+                    "Per Million People": {
+                        "cumulative": 131.66726077503847,
+                        "change": 8.583187287774125
+                    }
+                }
+            },
+            {
+                "date": "2020-4-9",
+                "date_pretty": "9 Apr",
+                "confirmed": {
+                    "Number of Cases": {
+                        "cumulative": 21903,
+                        "change": 1221
+                    },
+                    "Per Million People": {
+                        "cumulative": 1278.8949058783448,
+                        "change": 71.29300461477692
+                    }
+                },
+                "recovered": {
+                    "Number of Cases": {
+                        "cumulative": 278,
+                        "change": 6
+                    },
+                    "Per Million People": {
+                        "cumulative": 16.232150108851748,
+                        "change": 0.3503341750111888
+                    }
+                },
+                "deaths": {
+                    "Number of Cases": {
+                        "cumulative": 2403,
+                        "change": 148
+                    },
+                    "Per Million People": {
+                        "cumulative": 140.3088370919811,
+                        "change": 8.641576316942658
                     }
                 }
             }

@@ -5,51 +5,6 @@
     "population": 4951500,
     "colour": "rgba(255, 204, 0, 1)"
   },
-  "usa": {
-    "pomberName": "US",
-    "displayName": "United States",
-    "population": 329448214,
-    "colour": "rgba(191, 10, 48, 1)"
-   },
-   "ita": {
-     "pomberName": "Italy",
-     "displayName": "Italy",
-     "population": 60484061,
-     "colour": "rgba(0, 146, 70, 1)"
-   },
-   "esp": {
-     "pomberName": "Spain",
-     "displayName": "Spain",
-     "population": 46750239,
-     "colour": "rgba(99, 3, 86, 1)"
-   },
-   "gbr": {
-     "pomberName": "United Kingdom",
-     "displayName": "United Kingdom",
-     "population": 67796130,
-     "colour": "rgba(1, 33, 105, 1)"
-  },
-  "che": {
-    "pomberName": "Switzerland",
-    "displayName": "Switzerland",
-    "population": 8640546,
-    "colour": "rgba(1, 33, 105, 1)"
-  },
-  "sgp": {
-    "pomberName": "Singapore",
-    "displayName": "Singapore",
-    "population": 5840103
-  },
-  "kor": {
-    "pomberName": "Korea, South",
-    "displayName": "South Korea",
-    "population": 51259447
-  },
-  "chn": {
-    "pomberName": "China",
-    "displayName": "China",
-    "population": 1438092735
-  },
   "aus": {
     "pomberName": "Australia",
     "displayName": "Australia",
@@ -59,6 +14,11 @@
     "pomberName": "Canada",
     "displayName": "Canada",
     "population": 37668439
+  },
+  "chn": {
+    "pomberName": "China",
+    "displayName": "China",
+    "population": 1438092735
   },
   "fra": {
     "pomberName": "France",
@@ -70,9 +30,49 @@
     "displayName": "Germany",
     "population": 83724660
   },
+  "ita": {
+     "pomberName": "Italy",
+     "displayName": "Italy",
+     "population": 60484061,
+     "colour": "rgba(0, 146, 70, 1)"
+   },
+  "kor": {
+    "pomberName": "Korea, South",
+    "displayName": "South Korea",
+    "population": 51259447
+  },
+  "sgp": {
+    "pomberName": "Singapore",
+    "displayName": "Singapore",
+    "population": 5840103
+  },
+  "esp": {
+     "pomberName": "Spain",
+     "displayName": "Spain",
+     "population": 46750239,
+     "colour": "rgba(99, 3, 86, 1)"
+   },
   "swe": {
     "pomberName": "Sweden",
     "displayName": "Sweden",
     "population": 10085281
-  }
+  },
+  "che": {
+    "pomberName": "Switzerland",
+    "displayName": "Switzerland",
+    "population": 8640546,
+    "colour": "rgba(1, 33, 105, 1)"
+  },
+  "gbr": {
+     "pomberName": "United Kingdom",
+     "displayName": "United Kingdom",
+     "population": 67796130,
+     "colour": "rgba(1, 33, 105, 1)"
+  },
+  "usa": {
+    "pomberName": "US",
+    "displayName": "United States",
+    "population": 329448214,
+    "colour": "rgba(191, 10, 48, 1)"
+   }
 }
